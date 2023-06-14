@@ -7,7 +7,7 @@ package ec.edu.intsuperior.vista;
 import ec.edu.intsuperior.controlador.Controlador;
 /**
  *
- * @author jhony
+ * @author justin
  */
 public class Aplicacion {
     public static void main(String[] args) {
